@@ -2,6 +2,8 @@ package njhello
 
 import "fmt"
 
-func test() {
+func Test() {
 	fmt.Println("Hello, world.")
 }
+
+
